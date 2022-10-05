@@ -14,3 +14,6 @@ lecture - https://rest-apis-flask.teclado.com/docs/docker_intro/in_depth_docker_
 64.
 pip install -r requirements.txt
 flask run
+
+66. New endpoints for our first REST API
+Insomnia methods
