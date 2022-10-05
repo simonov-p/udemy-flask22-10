@@ -67,7 +67,7 @@ def create_item():
     
 
 @app.get("/item")
-def get_items():
+def get_all_items():
     return {"items": list(items.values())}
 
 
