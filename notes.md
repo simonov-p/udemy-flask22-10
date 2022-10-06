@@ -1,3 +1,5 @@
+71. Decorating responses with Flask-Smorest
+
 70. How to perform data validation with marshmallow
 
 69. How to write marshmallow schemas for our API
