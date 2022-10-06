@@ -1,3 +1,7 @@
+70. How to perform data validation with marshmallow
+
+69. How to write marshmallow schemas for our API
+
 68. How to use Blueprints and MethodViews in Flask
 Isomnia. add environment
 
