@@ -1,3 +1,7 @@
+68. How to use Blueprints and MethodViews in Flask
+Isomnia. add environment
+
+
 67. How to run the API in Docker with automatic reloading and debug mode
 docker build -t flask-smorest-api .
 
