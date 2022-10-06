@@ -1,3 +1,7 @@
+76. How to insert data into a table using SQLAlchemy
+
+75. How to configure Flask-SQLAlchemy with your Flask app
+
 74. How to write one-to-many relationships using SQLAlchemy
 
 73. How to code a simple SQLAlchemy model
@@ -52,3 +56,4 @@ lecture - https://rest-apis-flask.teclado.com/docs/docker_intro/in_depth_docker_
 
 
 
+https://www.udemy.com/course/rest-api-flask-and-python/learn/lecture/33781438#learning-tools
