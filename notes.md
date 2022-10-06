@@ -1,3 +1,10 @@
+74. How to write one-to-many relationships using SQLAlchemy
+
+73. How to code a simple SQLAlchemy model
+
+72. Overview and why use SQLAlchemy
+pip install -r requirements.txt
+
 71. Decorating responses with Flask-Smorest
 
 70. How to perform data validation with marshmallow
