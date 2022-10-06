@@ -1,3 +1,13 @@
+81. Conclusion of this section
+
+80. How to delete models with SQLAlchemy
+
+79. How to retrieve list of all models
+
+78. How to update models with SQLAlchemy
+
+77. How to find models in the database by ID or return a 404
+
 76. How to insert data into a table using SQLAlchemy
 
 75. How to configure Flask-SQLAlchemy with your Flask app
