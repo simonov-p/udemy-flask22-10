@@ -1,3 +1,31 @@
+90. How to add a register endpoint to the REST API
+Insomnia - 3 user's endpoints (/register, /user/id, /delete/id)
+add passlib to requirments -> rebuild docker
+docker build -t flask-smorest-api2 .
+docker run -dp 5005:5000 -w /app -v "$(pwd):/app" flask-smorest-api2 
+
+89. Coding the User model and schema
+
+88. How to set up Flask-JWT-Extended with our app
+add flask-jwt-extended to requirments -> rebuild docker
+docker run -dp 5005:5000 -w /app -v "$(pwd):/app" flask-smorest-api 
+
+source .venv/bin/activate
+pip install -r requirements.txt      
+
+87. Who uses the JWT?
+
+86. What is a JWT?
+The contents of this lecture are available in the e-book: https://rest-apis-flask.teclado.com/docs/flask_jwt_extended/what_is_a_jwt/
+
+Here we talk about what is a JWT, and link to some advanced resources with more information. This is an optional lecture as most of the content is also covered in the lecture videos.
+
+85. Changes in this section
+The contents of this lecture are available in the e-book: https://rest-apis-flask.teclado.com/docs/flask_jwt_extended/section_changes/
+Here we talk about the new endpoints that will be added in this section.
+
+Раздел 8: User authentication with Flask-JWT-Extended
+
 84. Many-to-many relationship between items and tags
 
 83. One-to-many relationship between stores and tags
