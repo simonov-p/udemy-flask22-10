@@ -1,3 +1,5 @@
+84. Many-to-many relationship between items and tags
+
 83. One-to-many relationship between stores and tags
 
 82. Changes in this section
