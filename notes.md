@@ -1,4 +1,10 @@
-81. Conclusion of this section
+83. One-to-many relationship between stores and tags
+
+82. Changes in this section
+
+Раздел 7: Many-to-many relationsships with SQLALchemys
+
+81. Conclusion of this section (Store data in a SQL database with SQLAlchemy)
 
 80. How to delete models with SQLAlchemy
 
