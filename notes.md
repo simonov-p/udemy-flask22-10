@@ -1,3 +1,7 @@
+92. Protect endpoints by requiring a JWT
+Insomnia create new item - Headers added:
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2NzEwOTYwNCwianRpIjoiMTI3ZjllNDEtNDMwNi00NGFjLWE1YTMtYjgxNzA2NDAxZDRkIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6MSwibmJmIjoxNjY3MTA5NjA0LCJleHAiOjE2NjcxMTA1MDR9.x0LbvF1UF88C7856PrratNwdxdrUkdBNEOiduYB3Njw
+
 91. How to add a login endpoint to the REST API
 https://jwt.io/
 
