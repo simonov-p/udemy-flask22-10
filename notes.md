@@ -1,3 +1,35 @@
+108. Overview of the final e-book chapters
+https://git-workshop.tecladocode.com/09_git_stash.html
+
+107. Merge conflicts and how to resolve them
+https://git-workshop.tecladocode.com/08_merge_conflicts.html#two-developers-working-on-the-same-branch
+
+106. Git branches and merging
+https://git-workshop.tecladocode.com/07_git_merges.html#how-to-merge-two-branches
+
+105. Remote repositories and how to use them
+git remote add origin url
+git push => error The current branch main has no upstream branch.
+git push --set_upustream origin main
+
+104. Writing Markdown for documents and commits
+https://git-workshop.tecladocode.com/03_markdown_syntax.html
+
+103. Initialize a Git repository for our project
+git init
+git status
+.gitignore
+git add .
+git checkout -- app.py
+git restore app.py
+git add app.py
+git reset HEAD app.py
+git commit -am 'Messages'
+
+102. What are Git repositories and commits?
+
+Chapter 10: Git Crash Course
+
 101. Manually review and modify database migrations
 https://rest-apis-flask.teclado.com/docs/flask_migrate/manually_review_modify_migrations/
 
@@ -70,7 +102,7 @@ Here we talk about what is a JWT, and link to some advanced resources with more 
 The contents of this lecture are available in the e-book: https://rest-apis-flask.teclado.com/docs/flask_jwt_extended/section_changes/
 Here we talk about the new endpoints that will be added in this section.
 
-Раздел 8: User authentication with Flask-JWT-Extended
+Chapter 8: User authentication with Flask-JWT-Extended
 
 84. Many-to-many relationship between items and tags
 
@@ -78,7 +110,7 @@ Here we talk about the new endpoints that will be added in this section.
 
 82. Changes in this section
 
-Раздел 7: Many-to-many relationsships with SQLALchemys
+Chapter 7: Many-to-many relationsships with SQLALchemys
 
 81. Conclusion of this section (Store data in a SQL database with SQLAlchemy)
 
@@ -100,6 +132,8 @@ Here we talk about the new endpoints that will be added in this section.
 
 72. Overview and why use SQLAlchemy
 pip install -r requirements.txt
+
+Chapter 6: Store data in a SQL database with SQLAlchemy
 
 71. Decorating responses with Flask-Smorest
 
@@ -145,7 +179,7 @@ docker run -dp 5005:5000 rest-apis-flask-python
 lecture - https://rest-apis-flask.teclado.com/docs/docker_intro/in_depth_docker_tutorial/
 
 
-
+Chapter 5: Flask-Smorest for more efficient development
 
 
 https://www.udemy.com/course/rest-api-flask-and-python/learn/lecture/33781438#learning-tools
