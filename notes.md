@@ -1,3 +1,19 @@
+99. Initialize your database with Flask-Migrate
+flask db init => create folder migrations
+
+flask db migrate
+flask db upgrade
+
+98. How to add Flask-Migrate to our Flask app
+pip install flask-migrate
+Since we will be useing Flask-Migrate to create our database tables, we no longer nedd SQLAlchemy to do it. => Remove the lines that wxwcute db.create_all()
+
+97. Why use database migrations at all?
+The contents of this lecture are available in the e-book: https://rest-apis-flask.teclado.com/docs/flask_migrate/why_use_database_migrations/
+Here we talk about why database migrations are useful.
+
+Раздел 9: Database migrations with Alembic and Flask-Migrate
+
 96. Token refreshing with Flask-JWT-Extended
 Insomnia - /refresh
 
