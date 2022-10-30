@@ -1,3 +1,6 @@
+101. Manually review and modify database migrations
+https://rest-apis-flask.teclado.com/docs/flask_migrate/manually_review_modify_migrations/
+
 100. Change SQLAlchemy models and generate a migration
 flask db migrate
 flask db upgrade
