@@ -1,3 +1,6 @@
+91. How to add a login endpoint to the REST API
+https://jwt.io/
+
 90. How to add a register endpoint to the REST API
 Insomnia - 3 user's endpoints (/register, /user/id, /delete/id)
 add passlib to requirments -> rebuild docker
