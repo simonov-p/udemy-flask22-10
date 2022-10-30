@@ -1,3 +1,5 @@
+94. How to add logout to the REST API
+
 93. JWT claims and authorization
 
 92. Protect endpoints by requiring a JWT
