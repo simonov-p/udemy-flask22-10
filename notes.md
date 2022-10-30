@@ -3,6 +3,8 @@ pip install gunicorn
 git add .
 git commit -am"feat(docker): run our flask app using gunicorn in docker."
 
+bug - single quotes - CMD ["gunicorn", "--bind", "0.0.0.0:80", "app:create_app()"]
+
 110. Creating a Render.com web service
 render.com
 https://dashboard.render.com/register via google
