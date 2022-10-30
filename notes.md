@@ -1,7 +1,7 @@
 111. How to run Flask with gunicorn in Docker
 pip install gunicorn
 git add .
-git commit -am"feat(docker): run our flask app using gunicorn"
+git commit -am"feat(docker): run our flask app using gunicorn in docker."
 
 110. Creating a Render.com web service
 render.com
