@@ -1,3 +1,6 @@
+96. Token refreshing with Flask-JWT-Extended
+Insomnia - /refresh
+
 95. Request chaining with Insomnia
 Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2NzExMDc5NywianRpIjoiNzEyZDY3NDgtOWMwOS00MjgwLTkyMmItZmI5N2I2N2E5Y2ZhIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6MSwibmJmIjoxNjY3MTEwNzk3LCJleHAiOjE2NjcxMTE2OTd9.X0e71cpyjfkz13wWwx5O1SYmhDH5AeHchtjRRgVhJwg
 
