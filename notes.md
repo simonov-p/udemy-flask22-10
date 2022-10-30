@@ -1,3 +1,12 @@
+95. Request chaining with Insomnia
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2NzExMDc5NywianRpIjoiNzEyZDY3NDgtOWMwOS00MjgwLTkyMmItZmI5N2I2N2E5Y2ZhIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6MSwibmJmIjoxNjY3MTEwNzk3LCJleHAiOjE2NjcxMTE2OTd9.X0e71cpyjfkz13wWwx5O1SYmhDH5AeHchtjRRgVhJwg
+
+Response - Body attribute - $.access_token
+
+Environment - access_token - Response - Body attribute - $.access_token
+"access_token": "Response - Body Attribute"
+
+
 94. How to add logout to the REST API
 
 93. JWT claims and authorization
