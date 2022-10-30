@@ -1,3 +1,17 @@
+110. Creating a Render.com web service
+render.com
+https://dashboard.render.com/register via google
+new - web service from git
+deploying in few minutes
+change _url in Insomnia
+"url": "http://127.0.0.1:5005", => "url": "https://rest-api-flask-python-projects.onrender.com",
+
+109. Overview of this section
+The contents of this lecture are available in the e-book: https://rest-apis-flask.teclado.com/docs/deploy_to_render/section_overview/
+Here we briefly talk about what will be covered in this section.
+
+Chapter 11: Deployments with Render.com
+
 108. Overview of the final e-book chapters
 https://git-workshop.tecladocode.com/09_git_stash.html
 
@@ -182,4 +196,5 @@ lecture - https://rest-apis-flask.teclado.com/docs/docker_intro/in_depth_docker_
 Chapter 5: Flask-Smorest for more efficient development
 
 
+REST APIs with Flask and Python in 2022
 https://www.udemy.com/course/rest-api-flask-and-python/learn/lecture/33781438#learning-tools
