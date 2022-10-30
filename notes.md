@@ -1,3 +1,19 @@
+113. Use PostgreSQL locally and in production
+https://api.elephantsql.com/console/97a44a8f-09c1-41bf-a229-8ef38090386b/browser?
+DROP TABLE - to NO TABLES
+
+update brew
+brew install postgresql
+
+pip install -r requirements.txt
+flask db upgrade
+flask db migrate
+flask db upgrade
+
+112. Get a deployed PostgreSQL database
+https://www.elephantsql.com/ - login gmail, UpSimonov, first_rest_api
+postgres://fxjjtjqr:n4xP2sPgmSVrJdOcmHpzFt8u4xKzPB4L@lucky.db.elephantsql.com/fxjjtjqr
+
 111. How to run Flask with gunicorn in Docker
 pip install gunicorn
 git add .
