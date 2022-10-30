@@ -1,3 +1,7 @@
+100. Change SQLAlchemy models and generate a migration
+flask db migrate
+flask db upgrade
+
 99. Initialize your database with Flask-Migrate
 flask db init => create folder migrations
 
